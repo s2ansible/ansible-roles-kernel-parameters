@@ -1,6 +1,7 @@
 galaxy_info:
   role_name: kernel_parameters
   author: youyo
+  company: heptagon inc.
   description: Set kernel-parameters
   license: MIT
   min_ansible_version: 2.4
